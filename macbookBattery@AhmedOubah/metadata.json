@@ -1,9 +1,0 @@
-{
-    "name": "Ahmed Oubah",
-    "description": "Display battery percentage for MacBook laptops",
-    "shell-version": ["40"],
-    "uuid": "macbookBattery@AhmedOubah",
-    "url": "https://github.com/AhmedOubah/Gnome-Battery-Extension",
-    "version": 1
-}
-
